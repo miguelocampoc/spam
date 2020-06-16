@@ -5,8 +5,11 @@
             require 'phpmailer/Exception.php';
             require 'phpmailer/PHPMailer.php';
             require 'phpmailer/SMTP.php';
-           $mail = new PHPMailer(true);
-      
+            $mail = new PHPMailer(true);
+            $nombre= $_POST['nombre'];
+            $input2= $_POST['mensaje'];
+            $input1= $_POST['celular'];
+
         try {
             //Server settings
             $mail->SMTPDebug = 0;                      // Enable verbose debug output
@@ -26,7 +29,7 @@
             // Content
             $mail->isHTML(true);                                  // Set email format to HTML
             $mail->Subject = 'Mensaje de SPAM';
-            $mail->Body    = 'Un usuario con ha enviado la siguiente informacion atravez de spam <br>Celular:'+$input1+'<br>mensaje:'+$input2;
+            $mail->Body    = 'Un usuario con ha enviado la siguiente informacion atravez de spam <br>Nombre:'.$nombre.'<br>Celular:'.$input1.'<br>mensaje:'.$input2;
         
             $mail->send();
             echo 'Message has been sent';
