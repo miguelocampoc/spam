@@ -23,7 +23,7 @@
         
             //Recipients
             $mail->setFrom('infomigsed@gmail.com', 'MIGSED');
-            $mail->addAddress("miguelocampoc@gmail.com");     // Add a recipient
+            $mail->addAddress("spam.ingenieros@gmail.com");     // Add a recipient
       
         
             // Content

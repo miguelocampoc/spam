@@ -53,7 +53,6 @@ body{
                   <p style="text-align:center; color:#48B1B6; font-size:20px;">Contactanos</p>
                  <?php include 'modal-contacto.php' ?>
                  </div>
-                  <p>Contenido</p>
                   </div>
                   <div class="border-top">
                   <div class="mb-2"> </div>
