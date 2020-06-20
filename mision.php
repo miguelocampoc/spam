@@ -21,6 +21,9 @@ body{
    height: 100%;
    width: 100% ;
 }
+#texto{
+    font-size:18px;
+}
 .boton.alternativo { 
     background-color: transparent;
     color: #00c69f!important;
@@ -46,14 +49,15 @@ body{
                 <div class="col-md-8 bg-white " >
                 <br><br><br><br>
                 <P id="titulo1">MISION</p>
-                <p>
+                <p id="texto">
                  Garantizar nuestros servicios en la calibracion, certificacion, mantenimientos, reparaciones y
                  suministros de equipos de instrumentacion, valvulas de control y seguridad con alta calidad
                  superando las expectativas de nuestros clientes generando valor y beneficio  nuestra empresa y trabajadores.
                 </p>
+                <img src=" img/mision.jpg" class="img-fluid" alt="Responsive image">
 
     
-                <br>
+                <br><br>
            </div>
           
     </div>

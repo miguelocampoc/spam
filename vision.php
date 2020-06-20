@@ -9,6 +9,9 @@
     <?php include 'head.php'?>
 </head>
 <style>
+#texto{
+    font-size:18px;
+}
  .minh-100 {
     height: 100vh;
   }
@@ -46,7 +49,7 @@ body{
                 <div class="col-md-8 bg-white " >
                 <br><br><br><br>
                 <P id="titulo1">VISION</p>
-                <p>
+                <p id="texto">
                     Ser lideres en el mercado nacional e internacional en la prestacion de serviciosen el area
                     de instrumentacion industrial y metrologia teniendo en cuenta el cumplimiento de los
                     estandares de calidad, seguridad,salud ocupacional y ambiente siendo una empresa 100%
@@ -54,10 +57,11 @@ body{
                     nos haga mas competitivos, aportando al desarollo industrial del pais
                 </p>
                
+                <img src="img/vision.jpg" class="img-fluid" alt="Responsive image">
 
 
     
-                <br>
+                <br><br>
            </div>
           
     </div>

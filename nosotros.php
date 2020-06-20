@@ -46,6 +46,7 @@ body{
                 <div class="col-md-8 bg-white " >
                 <br><br><br><br>
                 <P id="titulo1">¿QUIENES SOMOS?</p>
+                <p style='font-size:18px;'>
                 Somos una empresa barranqueña prestadora de servicios creada en mayo del 2008, formada por profesionales
                 que aportan dia a dia cambios positivos para el crecimiento de nuestros clientes en las diferentes areas de interes
                 en la industria tales como instrumentacion industrial, Automatizacion y Control, Metrologia,Pruebas Hidrostaticas
@@ -57,12 +58,15 @@ body{
                 logrando que sea sostenible y en permnente capacitacion y sensibilizacion al sistem, manteniendo la trazabilidad,
                 la evaluacion del sistema y la mejora continua.
                 Estamos certificados en el Sistema de gestion de Calidad en las normas:ISO 9001, ISO 14001:04, OHSAS 18001:2007.
+                </p>
+                <img src=" img/nosotros.jpg" class="img-fluid" alt="Responsive image">
 
 
-    
-                <br>
+                <br>     <br>
+
+
            </div>
-          
+
     </div>
     <br>
 </body>

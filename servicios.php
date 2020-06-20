@@ -46,6 +46,12 @@ body{
                 <div class="col-md-8 bg-white " >
                 <br><br><br><br>
                 <P id="titulo1">SERVICIOS</p>
+                <div class="row">
+                 <div class="col-md-6">
+                 <img src=" img/insidustrial.jpg" class="img-fluid" alt="Responsive image">
+
+                </div>
+                <div class="col-md-6">
                 <p id="titulo2">Instrumentacion Industrial </p>
                 <ul id="titulo3">
                 <li>Ingenieria</li>
@@ -54,7 +60,15 @@ body{
                 <li>Suministro</li>
                 <li>Montaje</li>
                 </ul>
-               
+                </div>
+               </div>
+               <br>
+               <div class="row">
+               <div class="col-md-6">
+               <img src=" img/a-industrial.jpg" class="img-fluid" alt="Responsive image">
+                 
+               </div>
+               <div class="col-md-6">
                 <p id="titulo2">Automatizacion y control </p>
                 <ul id="titulo3">
                 <li>Sistema Scada</li>
@@ -66,15 +80,15 @@ body{
                 <li>Implementaciones</li>
 
                 </ul>
-            
-                <p id="titulo2">Instrumentacion Industrial </p>
-                <ul id="titulo3">
-                <li>Ingenieria</li>
-                <li>Mantenimiento de equipos</li>
-                <li>Asesoria</li>
-                <li>Suministro</li>
-                <li>Montaje</li>
-                </ul>
+                </div>
+               </div>
+               <br>
+               <div class="row">
+               <div class="col-md-6">
+               <img src=" img/metrologia.jpg" class="img-fluid" alt="Responsive image">
+
+                </div>
+                <div class="col-md-6">
                 <p id="titulo2">Laboratorio de Metrologia </p>
                 <ul id="titulo3">
                 <li>Calibraciones</li>
@@ -86,6 +100,15 @@ body{
                 <li>Temperatura</li>
 
                 </ul>
+                </div>
+                </div>
+                <br>
+                <div class="row">
+                <div class="col-md-6">
+                <img src=" img/valvulas.jpg" class="img-fluid" alt="Responsive image">
+
+                </div>
+                <div class="col-md-6">
                 <p id="titulo2">Valvulas Industriales </p>
                 <ul id="titulo3">
                 <li>Mantenimiento</li>
@@ -94,6 +117,15 @@ body{
                 <li>Calibraciones</li>
                 <li>Certificaciones</li>
                 </ul>
+                </div>
+                </div>
+                <br>
+                <div class="row">
+                <div class="col-md-6">
+                <img src=" img/hidrostatica.jpg" class="img-fluid" alt="Responsive image">
+
+                </div>
+                <div class="col-md-6">
                 <p id="titulo2">Pruebas hidrostaticas</p>
                 <p id="titulo3">Para cualquier rango de medicion Equipos Electronicos y Analogos
                 <ul id="titulo3">
@@ -103,6 +135,15 @@ body{
                 <li>Intercambiadores,Separadores de Prueba,Spools</li>
                 <li>Separadores Generales, Calderas,Cerpentinas y Valvulas, entre otros.</li>
                 </ul>
+                </div>
+                </div>
+                <br>
+                <div class="row">
+                <div class="col-md-6">
+                <img src="img/electronica.jpg" class="img-fluid" alt="Responsive image">
+
+                </div>
+                <div class="col-md-6">
                 <p id="titulo2">Otras Actividades</p>
                 <ul id="titulo3">
                 <li>Obra civil</li>
@@ -114,6 +155,8 @@ body{
                 <li>Limpiezas Industriales</li>
 
                 </ul>
+                </div>
+                </div>
                 <br>
            </div>
           
